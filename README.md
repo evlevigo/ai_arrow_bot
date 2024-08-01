@@ -10,4 +10,8 @@
 
 requirements:
 - aiogram
-- 
+- aiogram-utils
+- gigachat
+- langchain
+- langchain-community
+  
