@@ -1,4 +1,4 @@
-API_TOKEN = '7422527539:AAGQyHTtUcywHpRQP8yAfDd7CC2KHOqYNPI'
+API_TOKEN = 'YOUR TOKEN'
 
 from aiogram import Bot, Dispatcher
 from aiogram.contrib.middlewares.logging import LoggingMiddleware
