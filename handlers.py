@@ -11,7 +11,7 @@ from langchain.schema import SystemMessage, HumanMessage
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Настройка GigaChat
-auth = 'NDMxYTRkZjktYjJjYi00MGQyLTk3NDEtNjY2NmUzNzI5ZThlOjQyMDUwN2JjLTJhMmYtNDRmOC1hYTM0LTg0ZDEyMjExYWVkMQ=='
+auth = 'YOUR GIGACHAT AUTH CODE'
 llm = GigaChat(credentials=auth,
                model='GigaChat:latest',
                verify_ssl_certs=False,
